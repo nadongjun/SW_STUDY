@@ -1,5 +1,6 @@
 # 프로젝트
 [준비](https://github.com/nadongjun/SW_STUDY/projects/1)
+
 [프로젝트 아이디어](https://github.com/nadongjun/SW_STUDY/projects/2)
 
 # 회의 
