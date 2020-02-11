@@ -3,6 +3,9 @@
 
 [프로젝트 아이디어](https://github.com/nadongjun/SW_STUDY/projects/2)
 
+[프로젝트 역할](https://github.com/nadongjun/SW_STUDY/projects/3)
+
+
 # 회의 
 1월 31일 금요일
 
